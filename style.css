@@ -1,0 +1,39 @@
+      
+    
+        ul {
+            list-style-type: none;
+              margin: 0;
+               padding: 0;
+                overflow: hidden;
+                 background-color: black ;
+                    border-radius: 20px 50px;
+         }
+         
+         li {
+           float: left;
+         }
+         
+         li a {
+           display: inline-block;
+            color: #ff6666;
+             text-align: center;
+              padding:18px 14px;
+         
+         }
+         
+         li a:hover {
+           background-color:  rgb(255, 0, 0);
+         }
+         .navbar{
+                font-family:Arial, Helvetica, sans-serif;
+             display:inline;
+             float:left;
+            }
+         
+            .content {
+              background-color: blue;
+              justify-content: space-between;
+              flex-direction: row;
+            }
+      
+    
